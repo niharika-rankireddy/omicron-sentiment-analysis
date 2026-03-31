@@ -1,4 +1,4 @@
-# Omicron-sentiment-analysis
+# OMICRON SENTIMENT ANALYSIS
 # Overview
 This project analyzes public sentiment on the Omicron COVID-19 variant using Twitter data.
 
