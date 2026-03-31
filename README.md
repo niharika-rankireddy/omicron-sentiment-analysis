@@ -1,2 +1,4 @@
 # Omicron-sentiment-analysis
-This project builds an Omicron Sentiment Analysis System using NLP and transformer models like BERT, RoBERTa, and DistilBERT to classify social media posts as positive, negative, or neutral. It uses preprocessing (tokenization, lemmatization, NER) and feature extraction (TF-IDF, Word2Vec, GloVe) for accurate sentiment detection.
+Overview
+This project analyzes public sentiment on the Omicron COVID-19 variant using Twitter data.
+It applies Natural Language Processing (NLP) techniques to classify tweets into positive, negative, and neutral sentiments.
